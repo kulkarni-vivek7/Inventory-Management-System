@@ -1,0 +1,3 @@
+btn_Staff_login = Button(M_Frame, text="Staff Login", font=("goudy old style",15,"bold"),bg="#0b5377",fg="white",cursor="hand2",command=self.Staff).place(x=20,y=5,width=420,height=40)
+        # btn_Student_login = Button(M_Frame, text="Student Login", font=("goudy old style",15,"bold"),bg="#0b5377",fg="white",cursor="hand2",command=self.Student).place(x=460,y=5,width=420,height=40)
+        # btn_Exit = Button(M_Frame, text="Exit", font=("goudy old style",15,"bold"),bg="#0b5377",fg="white",cursor="hand2",command=self.Exit).place(x=900,y=5,width=420,height=40)
